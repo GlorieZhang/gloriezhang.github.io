@@ -17,15 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a full-time research assistant in the Future Laboratory at Tsinghua University, with an interdisciplinary background. I hold a Master’s degree in Design from [Beihang University](https://ev.buaa.edu.cn/) and a Bachelor’s degree in Physics from [Heilongjiang University](https://www.hlju.edu.cn/). I am actively and passionately seeking opportunities to pursue a Ph.D. starting in 2025!
+# 🤹🏻‍♀️ About Me
 
-I have conducted research at [Tsinghua University’s Future Laboratory](https://thfl.tsinghua.edu.cn/en/) and [Arts and Machine Creativity, Hong Kong University of Science and Technology](https://hkust.edu.hk/news/topic/arts-and-creativity), collaborated with [HUAWEI](https://www.huawei.com/en/) and [Xiaomi](https://www.mi.com/global/) on joint projects, and worked as a product manager intern at [DiDi](https://web.didiglobal.com/) and [Lenovo](https://www.lenovo.com/). These diverse academic and industry experiences have fueled my passion for the intersection of technology and design innovation and equipped me with strong interdisciplinary skills. For more details, please refer to my [CV](../assets/Ruizhang_CV.pdf).
+I am currently a full-time research assistant in the [Future Laboratory](https://thfl.tsinghua.edu.cn/en/) at Tsinghua University, with a strong interdisciplinary background. I hold a Master’s degree in Design from [Beihang University](https://ev.buaa.edu.cn/) and a Bachelor’s degree in Physics from [Heilongjiang University](https://www.hlju.edu.cn/). I am actively seeking Ph.D. opportunities starting in 2025 and am passionate about advancing my research in human-computer interaction (HCI).
 
-My research focuses on human-computer interaction, with particular interests in human-AI collaboration, haptic interaction, and system and user experience design. I am dedicated to exploring how technology can enhance user experiences and advance human-machine collaboration.
+I have conducted research at [Tsinghua University’s Future Laboratory](https://thfl.tsinghua.edu.cn/en/) and [Arts and Machine Creativity](https://hkust.edu.hk/news/topic/arts-and-creativity) at Hong Kong University of Science and Technology, collaborated with [HUAWEI](https://www.huawei.com/en/) and [Xiaomi](https://www.mi.com/global/) on joint projects, and worked as a product manager intern at [DiDi](https://web.didiglobal.com/) and [Lenovo](https://www.lenovo.com/). These experiences have fueled my passion for integrating technology and design innovation while equipping me with strong interdisciplinary skills. For more details, feel free to check out my [CV](link-to-your-cv).
 
-Beyond research, I enjoy mountain climbing 🧗, hiking 🚶, cycling 🚴, and playing badminton 🏸. In my free time, I’ve also taken up dancing (including hip-hop, K-pop, and jazz) and playing the drums 🥁. In the future, I hope to try boxing 🥊 and mixology 🍷. I’m an energetic 🔥 and curious 🌍 person who loves exploring new things!
+My research focuses on HCI, with particular interests in human-AI collaboration, haptic interaction, and system and user experience design. I am dedicated to exploring how technology can enhance user experiences and foster effective human-machine collaboration.
+
+Beyond research, I enjoy mountain climbing 🧗, hiking 🚶, cycling 🚴, and playing badminton 🏸. In my free time, I’ve also taken up dancing (including hip-hop, K-pop, and jazz) and playing the drums 🥁. In the future, I hope to try boxing 🥊 and mixology 🍷. I’m an energetic 🔥 and curious 🌍 person who loves exploring new ideas and challenges.
 
 If you’re interested in my research or share any of these hobbies, feel free to reach out to me at: gloriezhang777[at]gmail[dot]com.
+
 
 # 📝 Publications 
 
