@@ -71,7 +71,7 @@ My research focuses on human-computer interaction, with particular interests in 
     Yixuan Li*, <strong>Rui Zhang*</strong>, Liwen He, Yang Jiao†<br>
     In <em>Proceedings of the Twelfth International Symposium of Chinese CHI</em> (<strong>CHCHI'24</strong>).<br>
     <a href="../assets/HapticMetric_Rui.pdf" target="_blank">[Paper]</a>
-    <a href="#" target="_blank">[Slides]</a>
+    <a href="../assets/HapticMetric_ChineseCHI24.pdf" target="_blank">[Slides]</a>
   </div>
 </div>
 
