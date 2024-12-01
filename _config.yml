@@ -24,9 +24,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rui (Glorie) ZHANG"
   avatar           : "images/personal photo 1.png"
-  bio              : "An interdisciplinary researcher bridging physics, design, and human-computer interaction to innovate at the crossroads of technology and user experience."
+  bio              : "RA at Tsinghua University, Future Lab. Focusing on HCI, human-AI collaboration, and haptic design."
   location         : "Beijing, China"
-  employer         : "Tsinghua University"
+  employer         : #"Tsinghua University"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "GlorieZhang777@gmail.com"
