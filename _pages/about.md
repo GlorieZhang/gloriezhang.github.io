@@ -50,13 +50,15 @@ My research focuses on human-computer interaction, with particular interests in 
       <img src='images/2_semantictap.png' alt="SemanticTap" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-    **SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone**  
-    **Rui Zhang\***, Yixuan Li\*, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†  
-    In *26th ACM International Conference on Multimodal Interaction* (**ICMI'24**).  
-    \[[Paper](https://dl.acm.org/doi/abs/10.1145/3678957.3685739)\] \[[Poster](../assets/SemanticTap_poster.pdf)\]  
+  <div class='paper-box-text'>
+    <strong>SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone</strong><br>
+    <strong>Rui Zhang*</strong>, Yixuan Li*, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†<br>
+    In <em>26th ACM International Conference on Multimodal Interaction</em> (<strong>ICMI'24</strong>).<br>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3678957.3685739" target="_blank">[Paper]</a>
+    <a href="../assets/SemanticTap_poster.pdf" target="_blank">[Poster]</a>
   </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -65,13 +67,15 @@ My research focuses on human-computer interaction, with particular interests in 
       <img src='images/3_hapticmetric.png' alt="HapticMetric" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-    **HapticMetric: A Smartphone Haptic Experience Computing System**  
-    Yixuan Li\*, **Rui Zhang\***, Liwen He, Yang Jiao†  
-    In *Proceedings of the Twelfth International Symposium of Chinese CHI* (**CHCHI'24**).  
-    \[[Paper](../assets/HapticMetric_Rui.pdf)\] \[Slides\]  
+  <div class='paper-box-text'>
+    <strong>HapticMetric: A Smartphone Haptic Experience Computing System</strong><br>
+    Yixuan Li*, <strong>Rui Zhang*</strong>, Liwen He, Yang Jiao†<br>
+    In <em>Proceedings of the Twelfth International Symposium of Chinese CHI</em> (<strong>CHCHI'24</strong>).<br>
+    <a href="../assets/HapticMetric_Rui.pdf" target="_blank">[Paper]</a>
+    <a href="#" target="_blank">[Slides]</a>
   </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -80,24 +84,24 @@ My research focuses on human-computer interaction, with particular interests in 
       <img src='images/4_haptifab.png' alt="HaptiFab" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-    **HaptiFab: A Wearable Toolkit Supports the Integration of Haptic Actuator and Fabric for Interdisciplinary Design**  
-    Yixuan Li\*, Shuai Wang\*, Xiaozhan Liang, **Rui Zhang**, Xiwen Yao, Yang Jiao†  
-    \[[Paper](../assets/4-CHI2025_Haptic.pdf)\]  
+  <div class='paper-box-text'>
+    <strong>HaptiFab: A Wearable Toolkit Supports the Integration of Haptic Actuator and Fabric for Interdisciplinary Design</strong><br>
+    Yixuan Li*, Shuai Wang*, Xiaozhan Liang, <strong>Rui Zhang</strong>, Xiwen Yao, Yang Jiao†<br>
+    <a href="../assets/4-CHI2025_Haptic.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Revision</div>
-      <img src='images/5_user_values.png' alt="User Values" width="100%">
+      <img src='images/5_values.png' alt="User Values" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-    **"I’d say the control’s not really in my hands": Configuring People as Evaluators in Designer-Led Smart Technology Design**  
-    Xiao Xue, Shuang He, Mengyu Chen, **Rui Zhang**, Xinyi Fu†  
-    \[[Paper](../assets/User_Values.pdf)\]  
+  <div class='paper-box-text'>
+    <strong>"I’d say the control’s not really in my hands": Configuring People as Evaluators in Designer-Led Smart Technology Design</strong><br>
+    Xiao Xue, Shuang He, Mengyu Chen, <strong>Rui Zhang</strong>, Xinyi Fu†<br>
+    <a href="../assets/User_Values.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
 
