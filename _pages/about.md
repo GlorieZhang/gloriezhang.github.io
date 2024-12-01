@@ -19,10 +19,9 @@ redirect_from:
 
 I am currently a full-time research assistant in the Future Laboratory at Tsinghua University, with an interdisciplinary background. I hold a Master’s degree in Design from [Beihang University](https://ev.buaa.edu.cn/) and a Bachelor’s degree in Physics from [Heilongjiang University](https://www.hlju.edu.cn/). I am seeking opportunities to pursue a PhD starting in 2025 now!
 
-I have conducted research at [Tsinghua University’s Future Laboratory](https://thfl.tsinghua.edu.cn/en/) and [Arts and Machine Creativity, Hong Kong University of Science and Technology](https://hkust.edu.hk/news/topic/arts-and-creativity), collaborated with [HUAWEI](https://www.huawei.com/en/) and [Xiaomi](https://www.mi.com/global/) on joint projects, and worked as a product manager intern at [DiDi](https://web.didiglobal.com/) and [Lenovo](https://www.lenovo.com/). These diverse academic and industry experiences have fueled my passion for the intersection of technology and design innovation and equipped me with strong interdisciplinary skills.
+I have conducted research at [Tsinghua University’s Future Laboratory](https://thfl.tsinghua.edu.cn/en/) and [Arts and Machine Creativity, Hong Kong University of Science and Technology](https://hkust.edu.hk/news/topic/arts-and-creativity), collaborated with [HUAWEI](https://www.huawei.com/en/) and [Xiaomi](https://www.mi.com/global/) on joint projects, and worked as a product manager intern at [DiDi](https://web.didiglobal.com/) and [Lenovo](https://www.lenovo.com/). These diverse academic and industry experiences have fueled my passion for the intersection of technology and design innovation and equipped me with strong interdisciplinary skills. For more details, please refer to my [CV].
 
 My research focuses on human-computer interaction, with particular interests in human-AI collaboration, haptic interaction, and system and user experience design. I am dedicated to exploring how technology can enhance user experiences and advance human-machine collaboration.
-
 
 
 # 📝 Publications 
@@ -106,11 +105,11 @@ My research focuses on human-computer interaction, with particular interests in 
 
 # 🧐 Research Experience
 **[Hong Kong University of Science and Technology, Art and Machine Creativity](https://hkust.edu.hk/news/topic/arts-and-creativity), Research Intern; *2024.07 - Present***
-- LLM‑Driven Interaction Innovation Research: We designed an innovative prototype ”Mindalogue” that leverages Large Language Model(ChatGPT‑4o model) to provide nonlinear interaction and presents the results in a structured mindmap format. **Supervisor: Prof. Anyi Rao**  
+- **LLM‑Driven Interaction Innovation Research:** We designed an innovative prototype ”Mindalogue” that leverages Large Language Model(ChatGPT‑4o model) to provide nonlinear interaction and presents the results in a structured mindmap format. **Supervisor: Prof. Anyi Rao**  
 
 **[Tsinghua University, the Future Laboratory](https://thfl.tsinghua.edu.cn/en/), Research Assistant; *2022.11 - Present***
-- Future Products Design Based on AI Era: Conducted in-depth research on AI integration and future product trends across multiple scenarios, proposing emotionally intelligent AI design solutions based on market insights and user experience. **Supervisor: Prof. Yang Jiao**
-- Haptic Feedback Design of Smartphone: Responsible for developing a smartphone haptic interaction system, analyzing vibration feedback evaluation dimensions, conducting user experiments and cross-terminal testing, and establishing an adjective perception model through extensive data analysis and subjective-objective modeling to optimize smartphone vibration feedback. **Supervisor: Prof. Yang Jiao**  
+- **Future Products Design Based on AI Era:** Conducted in-depth research on AI integration and future product trends across multiple scenarios, proposing emotionally intelligent AI design solutions based on market insights and user experience. **Supervisor: Prof. Yang Jiao**
+- **Haptic Feedback Design of Smartphone:** Responsible for developing a smartphone haptic interaction system, analyzing vibration feedback evaluation dimensions, conducting user experiments and cross-terminal testing, and establishing an adjective perception model through extensive data analysis and subjective-objective modeling to optimize smartphone vibration feedback. **Supervisor: Prof. Yang Jiao**  
 
 
 # 💻 Work Experience
