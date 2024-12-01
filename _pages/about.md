@@ -25,7 +25,7 @@ I have conducted research at [Tsinghua University’s Future Laboratory](https:/
 
 My research focuses on HCI, with particular interests in human-AI collaboration, haptic interaction, and system and user experience design. I am dedicated to exploring how technology can enhance user experiences and foster effective human-machine collaboration.
 
-Beyond research, I enjoy mountain climbing 🧗, hiking 🚶, cycling 🚴, and playing badminton 🏸. In my free time, I’ve also taken up dancing (including hip-hop, K-pop, and jazz) and playing the drums 🥁. In the future, I hope to try boxing 🥊 and mixology 🍷. I’m an energetic 🔥 and curious 🌍 person who loves exploring new ideas and challenges.
+Beyond research, I enjoy mountain climbing 🧗, hiking 🚶, cycling 🚴, and playing badminton 🏸. In my free time, I’ve also taken up dancing (including hip-hop, K-pop, and jazz) and playing drum sets 🥁. In the future, I hope to try boxing 🥊 and mixology 🍷. I’m an energetic 🔥 and curious 🌍 person who loves exploring new ideas and challenges.
 
 If you’re interested in my research or share any of these hobbies, feel free to reach out to me at: gloriezhang777[at]gmail[dot]com.
 
