@@ -113,6 +113,14 @@ My research focuses on human-computer interaction, with particular interests in 
 - Haptic Feedback Design of Smartphone: Responsible for developing a smartphone haptic interaction system, analyzing vibration feedback evaluation dimensions, conducting user experiments and cross-terminal testing, and establishing an adjective perception model through extensive data analysis and subjective-objective modeling to optimize smartphone vibration feedback. **Supervisor: Prof. Yang Jiao**  
 
 
+# 💻 Work Experience {#work}
+**[DiDi](https://web.didiglobal.com/), Enterprise Service Group, Product Manager Intern; *2022.05 - 2022.10***    
+- Managed the development and launch of 20+ product features through user research, market analysis, and cross-department coordination, driving user retention and conversion growth.    
+
+**[Lenovo](https://www.lenovo.com/), Global Voice Group, Product Manager Intern; *2021.11 - 2022.03***    
+- Designed and analyzed 1000+ survey responses, proposed product recommendations, and improved voice-to-text accuracy and conversion rates.
+
+
 # 🎖 Honors and Awards
 **Scholarships and Honors**
 - Distinguished Graduate; *2023*
