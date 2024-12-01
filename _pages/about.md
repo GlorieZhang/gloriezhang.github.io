@@ -34,11 +34,12 @@ My research focuses on human-computer interaction, with particular interests in 
       <img src='images/1_mindalogue.png' alt="Mindalogue" width="100%">
     </div>
   </div>
+  <div class='paper-box-text'>
+    <strong>Mindalogue: LLM-Powered Nonlinear Interaction for Effective Learning and Task Exploration</strong><br>
+    <strong>Rui Zhang*</strong>, Ziyao Zhang*, Fengliang Zhu, Jiajie Zhou, Anyi Rao†<br>
+    <a href="https://arxiv.org/abs/2410.10570">arXiv</a>
+  </div>
 </div>
-
-**Mindalogue: LLM-Powered Nonlinear Interaction for Effective Learning and Task Exploration**  
-**Rui Zhang***, Ziyao Zhang*, Fengliang Zhu, Jiajie Zhou, Anyi Rao†  
-\[[arXiv](https://arxiv.org/abs/2410.10570)\]
  
   
 
