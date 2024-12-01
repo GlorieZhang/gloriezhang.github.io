@@ -30,7 +30,6 @@ My research focuses on human-computer interaction, with particular interests in 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv</div>
       <img src='images/mindalogue.png' alt="Mindalogue" width="100%">
     </div>
   </div>
