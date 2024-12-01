@@ -111,7 +111,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
 
 
 # 🧐 Research Experience
-**[Hong Kong University of Science and Technology, Art and Machine Creativity](https://hkust.edu.hk/news/topic/arts-and-creativity), Research Intern; *2024.07 - Present***
+**[Hong Kong University of Science and Technology, Arts and Machine Creativity](https://hkust.edu.hk/news/topic/arts-and-creativity), Research Intern; *2024.07 - Present***
 - **LLM‑Driven Interaction Innovation Research:** We designed an innovative prototype ”Mindalogue” that leverages Large Language Model(ChatGPT‑4o model) to provide nonlinear interaction and presents the results in a structured mindmap format. **Supervisor: Prof. Anyi Rao**  
 
 **[Tsinghua University, the Future Laboratory](https://thfl.tsinghua.edu.cn/en/), Research Assistant; *2022.11 - Present***
