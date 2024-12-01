@@ -113,7 +113,7 @@ My research focuses on human-computer interaction, with particular interests in 
 - Haptic Feedback Design of Smartphone: Responsible for developing a smartphone haptic interaction system, analyzing vibration feedback evaluation dimensions, conducting user experiments and cross-terminal testing, and establishing an adjective perception model through extensive data analysis and subjective-objective modeling to optimize smartphone vibration feedback. **Supervisor: Prof. Yang Jiao**  
 
 
-# 💻 Work Experience {#work}
+# 💻 Work Experience
 **[DiDi](https://web.didiglobal.com/), Enterprise Service Group, Product Manager Intern; *2022.05 - 2022.10***    
 - Managed the development and launch of 20+ product features through user research, market analysis, and cross-department coordination, driving user retention and conversion growth.    
 
@@ -125,7 +125,7 @@ My research focuses on human-computer interaction, with particular interests in 
 **Scholarships and Honors**
 - Distinguished Graduate; *2023*
 - Second Class Scholarship; *2021, 2022, 2023*
-- Xiaomi First Level Scholarship (Top 1%); *2021*
+- Xiaomi First Class Scholarship (Top 1%); *2021*
 - Outstanding Student Leader; *2021*
 
 **Design Awards**
