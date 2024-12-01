@@ -31,7 +31,7 @@ My research focuses on human-computer interaction, with particular interests in 
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv</div>
-      <img src='images/1_mindalogue.png' alt="Mindalogue" width="100%">
+      <img src='images/mindalogue.png' alt="Mindalogue" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -47,7 +47,7 @@ My research focuses on human-computer interaction, with particular interests in 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICMI 2024</div>
-      <img src='images/2_semantictap.png' alt="SemanticTap" width="100%">
+      <img src='images/semantictap.png' alt="SemanticTap" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -64,7 +64,7 @@ My research focuses on human-computer interaction, with particular interests in 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHCHI 2024</div>
-      <img src='images/3_hapticmetric.png' alt="HapticMetric" width="100%">
+      <img src='images/hapticmetric.png' alt="HapticMetric" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -80,8 +80,7 @@ My research focuses on human-computer interaction, with particular interests in 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Revision</div>
-      <img src='images/4_haptifab.png' alt="HaptiFab" width="100%">
+      <img src='images/haptifab.png' alt="HaptiFab" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -95,7 +94,7 @@ My research focuses on human-computer interaction, with particular interests in 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/5_values.png' alt="User Values" width="100%">
+      <img src='images/values.png' alt="User Values" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
