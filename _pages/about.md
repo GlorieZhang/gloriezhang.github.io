@@ -35,13 +35,14 @@ If you’re interested in my research or share any of these hobbies, feel free t
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">arXiv</div>
       <img src='images/mindalogue.png' alt="Mindalogue" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
     <strong>Mindalogue: LLM-Powered Nonlinear Interaction for Effective Learning and Task Exploration</strong><br>
     <strong>Rui Zhang*</strong>, Ziyao Zhang*, Fengliang Zhu, Jiajie Zhou, Anyi Rao†<br>
-    <a href="https://arxiv.org/abs/2410.10570">[arXiv]</a>
+    <a href="https://arxiv.org/abs/2410.10570">[Paper]</a>
   </div>
 </div>
  
