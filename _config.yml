@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rui (Glorie) ZHANG"
-description              : "An interdisciplinary researcher bridging physics, design, and human-computer interaction to innovate at the crossroads of technology and user experience."
+description              : "An interdisciplinary researcher bridging physics, design, and computer science, focused on HCI, human-AI collaboration, and haptic design."
 url                      : #https://gloriezhang.github.io
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rui (Glorie) ZHANG"
   avatar           : "images/personal photo 1.png"
-  bio              : "RA at Tsinghua University, Future Lab. Focusing on HCI, human-AI collaboration, and haptic design."
+  bio              : "RA at Future Lab, Tsinghua University."
   location         : "Beijing, China"
   employer         : #"Tsinghua University"
   pubmed           : 
