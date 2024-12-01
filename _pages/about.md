@@ -27,46 +27,77 @@ My research focuses on human-computer interaction, with particular interests in 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/1_mindalogue.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv</div>
+      <img src='images/1_mindalogue.png' alt="Mindalogue" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    **Mindalogue: LLM-Powered Nonlinear Interaction for Effective Learning and Task Exploration**  
+    **Rui Zhang\***, Ziyao Zhang\*, Fengliang Zhu, Jiajie Zhou, Anyi Rao†  
+    \[[arXiv](https://arxiv.org/abs/2410.10570)\]  
+  </div>
+</div>
 
-**Mindalogue: LLM-Powered Nonlinear Interaction for Effective Learning and Task Exploration**    
-**Rui Zhang\***, Ziyao Zhang\*, Fengliang Zhu, Jiajie Zhou, Anyi Rao†    
-\[[arXiv](https://arxiv.org/abs/2410.10570)\]   
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICMI 2024</div>
+      <img src='images/2_semantictap.png' alt="SemanticTap" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    **SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone**  
+    **Rui Zhang\***, Yixuan Li\*, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†  
+    In *26th ACM International Conference on Multimodal Interaction* (**ICMI'24**).  
+    \[[Paper](https://dl.acm.org/doi/abs/10.1145/3678957.3685739)\] \[[Poster](../assets/SemanticTap_poster.pdf)\]  
+  </div>
+</div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CHCHI 2024</div>
+      <img src='images/3_hapticmetric.png' alt="HapticMetric" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    **HapticMetric: A Smartphone Haptic Experience Computing System**  
+    Yixuan Li\*, **Rui Zhang\***, Liwen He, Yang Jiao†  
+    In *Proceedings of the Twelfth International Symposium of Chinese CHI* (**CHCHI'24**).  
+    \[[Paper](../assets/HapticMetric_Rui.pdf)\] \[Slides\]  
+  </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMI 2024</div><img src='images/2_semantictap.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Revision</div>
+      <img src='images/4_haptifab.png' alt="HaptiFab" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    **HaptiFab: A Wearable Toolkit Supports the Integration of Haptic Actuator and Fabric for Interdisciplinary Design**  
+    Yixuan Li\*, Shuai Wang\*, Xiaozhan Liang, **Rui Zhang**, Xiwen Yao, Yang Jiao†  
+    \[[Paper](../assets/4-CHI2025_Haptic.pdf)\]  
+  </div>
+</div>
 
-**SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone**     
-**Rui Zhang\***, Yixuan Li\*, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†    
-In *26th ACM International Conference on Multimodal Interaction*(**ICMI'24**).    
-\[[Paper](https://dl.acm.org/doi/abs/10.1145/3678957.3685739)\] \[[Poster](../assets/SemanticTap_poster.pdf)\]
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHCHI 2024</div><img src='images/3_hapticmetric.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**HapticMetric: A Smartphone Haptic Experience Computing System**      
-Yixuan Li\*, **Rui Zhang\***, Liwen He, Yang Jiao†    
-In *Proceedings of the Twelfth International Symposium of Chinese CHI*(**CHCHI'24**).    
-\[[Paper](../assets/HapticMetric_Rui.pdf)\] \[Slides\]  
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Revision</div><img src='images/4_haptifab.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**HaptiFab: A Wearable Toolkit Supports the Integration of Haptic Actuator and Fabric for Interdisciplinary Design**  
-Yixuan Li\*, Shuai Wang\*, Xiaozhan Liang, **Rui Zhang**, Xiwen Yao, Yang Jiao†  
-\[[Paper](../assets/4-CHI2025_Haptic.pdf)\]
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Revision</div><img src='images/4_haptifab.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**"I’d say the control’s not really in my hands": Configuring People as Evaluators in Designer-Led Smart Technology Design**  
-Xiao Xue, Shuang He, Mengyu Chen, **Rui Zhang**, Xinyi Fu†  
-\[[Paper](../assets/User_Values.pdf)\] 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Revision</div>
+      <img src='images/5_user_values.png' alt="User Values" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    **"I’d say the control’s not really in my hands": Configuring People as Evaluators in Designer-Led Smart Technology Design**  
+    Xiao Xue, Shuang He, Mengyu Chen, **Rui Zhang**, Xinyi Fu†  
+    \[[Paper](../assets/User_Values.pdf)\]  
+  </div>
+</div>
 
 
 # 🧐 Research Experience
