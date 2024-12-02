@@ -19,7 +19,7 @@ redirect_from:
 
 # 🤹🏻‍♀️ About Me
 
-I am currently a full-time research assistant in the [Future Laboratory](https://thfl.tsinghua.edu.cn/en/) at Tsinghua University, with a interdisciplinary background. I hold a Master’s degree in Design from [Beihang University](https://ev.buaa.edu.cn/) and a Bachelor’s degree in Physics from [Heilongjiang University](https://www.hlju.edu.cn/). I am positively seeking Ph.D. opportunities starting in 2025 and am passionate about advancing my research in human-computer interaction (HCI)!
+I am currently a full-time research assistant in the [Future Laboratory](https://thfl.tsinghua.edu.cn/en/) at Tsinghua University, with a interdisciplinary background. I hold a Master’s degree in Design from [Beihang University](https://ev.buaa.edu.cn/) and a Bachelor’s degree in Physics from [Heilongjiang University](https://www.hlju.edu.cn/). I am positively seeking Ph.D. opportunities starting in 2025 🚀 and am passionate about advancing my research in human-computer interaction (HCI)!
 
 I have conducted research at [Tsinghua University’s Future Laboratory](https://thfl.tsinghua.edu.cn/en/) and [Arts and Machine Creativity](https://hkust.edu.hk/news/topic/arts-and-creativity) at Hong Kong University of Science and Technology, collaborated with [HUAWEI](https://www.huawei.com/en/) and [Xiaomi](https://www.mi.com/global/) on joint projects, and worked as a product manager intern at [DiDi](https://web.didiglobal.com/) and [Lenovo](https://www.lenovo.com/). These experiences have fueled my passion for integrating technology and design innovation while equipping me with strong interdisciplinary skills. For more details, please refer to my [CV](../assets/RuiZhang_CV.pdf).
 
