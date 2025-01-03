@@ -90,7 +90,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   </div>
   <div class='paper-box-text'>
     <strong>HaptiFab: A Wearable Toolkit Supports the Integration of Haptic Actuator and Fabric for Interdisciplinary Design</strong><br>
-    Yixuan Li*, Shuai Wang*, Xiaozhan Liang, <strong>Rui Zhang</strong>, Xiwen Yao, Yang Jiao†<br>
+    Yixuan Li*, Shuai Wang*, <strong>Rui Zhang</strong>, Xiuqi Zhu, Xiaozhan Liang, Xiwen Yao, Yang Jiao†<br>
     <a href="../assets/4-CHI2025_Haptic.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
