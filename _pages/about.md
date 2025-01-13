@@ -25,7 +25,7 @@ I have conducted research at [Tsinghua University’s Future Laboratory](https:/
 
 My research focuses on **HCI**, with particular interests in **human-AI collaboration, haptic interaction, and system and user experience design**. I am dedicated to exploring how technology can enhance user experiences and foster effective human-machine collaboration.
 
-Beyond research, I enjoy mountain climbing 🧗, hiking 🚶, cycling 🚴, and playing badminton 🏸. In my free time, I’ve also taken up dancing (including hip-hop, K-pop, and jazz) and playing drum sets 🥁. In the future, I hope to try boxing 🥊 and mixology 🍷. I’m an energetic 🔥 and curious 🌍 person who loves exploring new ideas and challenges.
+Beyond research, I enjoy mountain climbing, hiking, cycling, and playing badminton. In my free time, I’ve also taken up dancing (including hip-hop, K-pop, and jazz) and playing drum sets. I’m an energetic 🔥 and curious 🌍 person who loves exploring new ideas and challenges.
 
 If you’re interested in my research or share any of these hobbies, feel free to reach out to me: **gloriezhang777@gmail.com**.
 
@@ -90,7 +90,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   </div>
   <div class='paper-box-text'>
     <strong>HaptiFab: A Wearable Toolkit Supports the Integration of Haptic Actuator and Fabric for Interdisciplinary Design</strong><br>
-    Yixuan Li*, Shuai Wang*, <strong>Rui Zhang</strong>, Xiuqi Zhu, Xiaozhan Liang, Xiwen Yao, Yang Jiao†<br>
+    Yixuan Li*, Shuai Wang*, <strong>Rui Zhang</strong>, Xiuqi Tommy Zhu, Xiaozhan Liang, Xiwen Yao, Yang Jiao†<br>
     <a href="../assets/4-CHI2025_Haptic.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
