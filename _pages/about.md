@@ -86,13 +86,13 @@ If you’re interested in my research or share any of these hobbies, feel free t
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHCHI 2024</div>
-      <img src='images/hapticmetric.png' alt="HapticMetric" width="100%">
+      <img src='images/ScentEcho.jpg' alt="HapticMetric" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
     <strong>ScentEcho: Exploring Adsorbent Materials for Accurate Odor Collection and  Playback</strong><br>
     Chihhung Lee, Yuchi Sun, <strong>Rui Zhang*</strong>, Qi Lu<br>
-    <a href="../assets/HapticMetric_Rui.pdf" target="_blank">[Paper]</a>
+    <a href="../assets/ScentEcho.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
 
@@ -105,8 +105,8 @@ If you’re interested in my research or share any of these hobbies, feel free t
   </div>
   <div class='paper-box-text'>
     <strong>HaptiFab: A Wearable Toolkit Supports the Integration of Haptic Actuator and Fabric for Interdisciplinary Design</strong><br>
-    Yixuan Li*, Shuai Wang*, <strong>Rui Zhang</strong>, Xiuqi Tommy Zhu, Xiaozhan Liang, Xiwen Yao, Yang Jiao†<br>
-    <a href="../assets/4-CHI2025_Haptic.pdf" target="_blank">[Paper]</a>
+    Yixuan Li*, Shuai Wang*, Xiuqi Tommy Zhu, <strong>Rui Zhang</strong>, Xiaozhan Liang, Xiwen Yao, Yang Jiao†<br>
+    <a href="../assets/HaptiFab(1).pdf" target="_blank">[Paper]</a>
   </div>
 </div>
 
@@ -120,7 +120,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   <div class='paper-box-text'>
     <strong>"I’d say the control’s not really in my hands": Configuring People as Evaluators in Designer-Led Smart Technology Design</strong><br>
     Xiao Xue, Shuang He, Mengyu Chen, <strong>Rui Zhang</strong>, Xinyi Fu†<br>
-    <a href="../assets/User_Values.pdf" target="_blank">[Paper]</a>
+    <a href="../assets/Problematic Participation(1).pdf" target="_blank">[Paper]</a>
   </div>
 </div>
 
