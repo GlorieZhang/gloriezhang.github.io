@@ -85,6 +85,21 @@ If you’re interested in my research or share any of these hobbies, feel free t
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">CHCHI 2024</div>
+      <img src='images/hapticmetric.png' alt="HapticMetric" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <strong>ScentEcho: Exploring Adsorbent Materials for Accurate Odor Collection and  Playback</strong><br>
+    Chihhung Lee, Yuchi Sun, <strong>Rui Zhang*</strong>, Qi Lu<br>
+    <a href="../assets/HapticMetric_Rui.pdf" target="_blank">[Paper]</a>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/haptifab.png' alt="HaptiFab" width="100%">
     </div>
   </div>
