@@ -91,7 +91,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   </div>
   <div class='paper-box-text'>
     <strong>ScentEcho: Exploring Adsorbent Materials for Accurate Odor Collection and  Playback</strong><br>
-    Chihhung Lee, Yuchi Sun, <strong>Rui Zhang*</strong>, Qi Lu<br>
+    Chihhung Lee, Yuchi Sun, <strong>Rui Zhang</strong>, Qi Lu<br>
     <a href="../assets/ScentEcho.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
