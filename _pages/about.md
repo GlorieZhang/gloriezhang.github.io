@@ -85,7 +85,6 @@ If you’re interested in my research or share any of these hobbies, feel free t
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CHCHI 2024</div>
       <img src='images/ScentEcho.jpg' alt="HapticMetric" width="100%">
     </div>
   </div>
@@ -118,7 +117,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
     </div>
   </div>
   <div class='paper-box-text'>
-    <strong>"I’d say the control’s not really in my hands": Configuring People as Evaluators in Designer-Led Smart Technology Design</strong><br>
+    <strong>How People Critique Problematic Participation in Smart Technology Design Processes? Lesson Learned from Designing Smart Technologies for Pour-Over Coffer-Making Experienceb</strong><br>
     Xiao Xue, Shuang He, Mengyu Chen, <strong>Rui Zhang</strong>, Xinyi Fu†<br>
     <a href="../assets/Problematic Participation(1).pdf" target="_blank">[Paper]</a>
   </div>
