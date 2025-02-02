@@ -23,7 +23,7 @@ I am currently **a full-time research assistant in the [Future Laboratory at Tsi
 
 I have conducted research at [Tsinghua University’s Future Laboratory](https://thfl.tsinghua.edu.cn/en/) and [Arts and Machine Creativity at Hong Kong University of Science and Technology](https://amc.hkust.edu.hk/), collaborated with [HUAWEI](https://www.huawei.com/en/) and [Xiaomi](https://www.mi.com/global/) on joint projects, and worked as a product manager intern at [DiDi](https://web.didiglobal.com/) and [Lenovo](https://www.lenovo.com/). These experiences have fueled my passion for integrating technology and design innovation while equipping me with interdisciplinary and practical skills. 
 
-My research focuses on **HCI**, with particular interests in **human-AI collaboration, haptic interaction, and system and user experience design**. I am dedicated to exploring how technology can enhance user experiences and foster effective human-machine collaboration.
+My research focuses on **HCI**, with particular interests in **human-AI collaboration, multimodal interaction, haptic interaction, and system and user experience design**. I am dedicated to exploring how technology can enhance user experiences and foster effective human-machine collaboration.
 
 Beyond research, I enjoy mountain climbing, hiking, cycling, and playing badminton. In my free time, I’ve also taken up dancing (including hip-hop, K-pop, and jazz) and playing drum sets. I’m an energetic 🔥 and curious 🌍 person who loves exploring new ideas and challenges.
 
