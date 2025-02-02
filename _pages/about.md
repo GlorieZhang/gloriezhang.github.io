@@ -69,7 +69,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHCHI 2024</div>
-      <img src='images/hapticmetric.png' alt="HapticMetric" width="100%">
+      <img src='images/3_hapticmetric(1).png' alt="HapticMetric" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
