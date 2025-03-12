@@ -85,6 +85,20 @@ If you’re interested in my research or share any of these hobbies, feel free t
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/haptic design.png' alt="HapticMetric" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <strong>Optimization Design of Smartphone Haptic Feedback Based on Vibration and Semantic Features</strong><br>
+    <strong>Rui Zhang</strong>, Yixuan Li, Yang Jiao†<br>
+    <a href="../assets/Optimization Design.pdf" target="_blank">[Paper]</a>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/ScentEcho.jpg' alt="HapticMetric" width="100%">
     </div>
   </div>
