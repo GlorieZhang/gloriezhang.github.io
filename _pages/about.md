@@ -91,7 +91,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   <div class='paper-box-text'>
     <strong>Optimization Design of Smartphone Haptic Feedback Based on Vibration and Semantic Features</strong><br>
     <strong>Rui Zhang</strong>, Yixuan Li, Yang Jiao†<br>
-    <a href="../assets/Optimization Design.pdf" target="_blank">[Paper]</a>
+    <a href="../assets/Optimization Design(1).pdf" target="_blank">[Paper]</a>
   </div>
 </div>
 
