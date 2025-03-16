@@ -41,7 +41,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   </div>
   <div class='paper-box-text'>
     <strong>Mindalogue: LLM-Powered Nonlinear Interaction for Effective Learning and Task Exploration</strong><br>
-    <strong>Rui Zhang*</strong>, Ziyao Zhang*, Fengliang Zhu, Jiajie Zhou, Anyi Rao†<br>
+    <strong><span style="text-decoration: underline;">Rui Zhang*</span></strong>, Ziyao Zhang*, Fengliang Zhu, Jiajie Zhou, Anyi Rao†<br>
     <a href="https://arxiv.org/abs/2410.10570">[Paper]</a>
   </div>
 </div>
@@ -57,7 +57,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   </div>
   <div class='paper-box-text'>
     <strong>SemanticTap: A Haptic Toolkit for Vibration Semantic Design of Smartphone</strong><br>
-    <strong>Rui Zhang*</strong>, Yixuan Li*, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†<br>
+    <strong><span style="text-decoration: underline;">Rui Zhang*</span></strong>, Yixuan Li*, Zihuang Wu, Yong Zhang, Jie Zhao, Yang Jiao†<br>
     In <em>26th ACM International Conference on Multimodal Interaction</em> (<strong>ICMI'24</strong>).<br>
     <a href="https://dl.acm.org/doi/abs/10.1145/3678957.3685739" target="_blank">[Paper]</a>
     <a href="../assets/SemanticTap_poster.pdf" target="_blank">[Poster]</a>
@@ -74,7 +74,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   </div>
   <div class='paper-box-text'>
     <strong>HapticMetric: A Smartphone Haptic Experience Computing System</strong><br>
-    Yixuan Li*, <strong>Rui Zhang*</strong>, Liwen He, Yang Jiao†<br>
+    Yixuan Li*, <strong><span style="text-decoration: underline;">Rui Zhang*</span></strong>, Liwen He, Yang Jiao†<br>
     In <em>Proceedings of the Twelfth International Symposium of Chinese CHI</em> (<strong>CHCHI'24</strong>).<br>
     <a href="../assets/HapticMetric _ChineseCHI24(1).pdf" target="_blank">[Paper]</a>
     <a href="../assets/HapticMetric_ChineseCHI24.pdf" target="_blank">[Slides]</a>
@@ -90,7 +90,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   </div>
   <div class='paper-box-text'>
     <strong>Optimization Design of Smartphone Haptic Feedback Based on Vibration and Semantic Features</strong>(in Chinese)<br>
-    <strong>Rui Zhang</strong>, Yixuan Li, Yang Jiao†<br>
+    <strong><span style="text-decoration: underline;">Rui Zhang</span></strong>, Yixuan Li, Yang Jiao†<br>
     <a href="../assets/Optimization Design(1).pdf" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -104,7 +104,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   </div>
   <div class='paper-box-text'>
     <strong>ScentEcho: Exploring Adsorbent Materials for Accurate Odor Collection and  Playback</strong><br>
-    Chihhung Lee, Yuchi Sun, <strong>Rui Zhang</strong>, Qi Lu†<br>
+    Chihhung Lee, Yuchi Sun, <strong><span style="text-decoration: underline;">Rui Zhang</span></strong>, Qi Lu†<br>
     <a href="../assets/ScentEcho.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -118,7 +118,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   </div>
   <div class='paper-box-text'>
     <strong>HaptiFab: A Wearable Toolkit Supports the Integration of Haptic Actuator and Fabric for Interdisciplinary Design</strong><br>
-    Yixuan Li*, Shuai Wang*, Xiuqi Tommy Zhu, <strong>Rui Zhang</strong>, Xiaozhan Liang, Xiwen Yao, Yang Jiao†<br>
+    Yixuan Li*, Shuai Wang*, Xiuqi Tommy Zhu, <strong><span style="text-decoration: underline;">Rui Zhang</span></strong>, Xiaozhan Liang, Xiwen Yao, Yang Jiao†<br>
     <a href="../assets/HaptiFab(1).pdf" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -132,7 +132,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   </div>
   <div class='paper-box-text'>
     <strong>How People Critique Problematic Participation in Smart Technology Design Processes? Lesson Learned from Designing Smart Technologies for Pour-Over Coffer-Making Experienceb</strong><br>
-    Xiao Xue, Shuang He, Mengyu Chen, <strong>Rui Zhang</strong>, Xinyi Fu†<br>
+    Xiao Xue, Shuang He, Mengyu Chen, <strong><span style="text-decoration: underline;">Rui Zhang</span></strong>, Xinyi Fu†<br>
     <a href="../assets/Problematic Participation(1).pdf" target="_blank">[Paper]</a>
   </div>
 </div>
