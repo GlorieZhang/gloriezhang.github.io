@@ -27,7 +27,7 @@ My research focuses on **HCI**, with particular interests in **human-AI collabor
 
 Beyond research, I enjoy mountain climbing, hiking, cycling, and playing badminton. In my free time, I’ve also taken up dancing (including hip-hop, K-pop, and jazz) and playing drum sets. I’m an energetic 🔥 and curious 🌍 person who loves exploring new ideas and challenges.
 
-If you’re interested in my research or share any of these hobbies, feel free to reach out to me: **gloriezhang777(at)gmail.com**.
+If you’re interested in my research or share any of these hobbies, feel free to reach out to me: **gloriezhang777(at)gmail(dot)com**.
 
 
 # 📝 Publications 
