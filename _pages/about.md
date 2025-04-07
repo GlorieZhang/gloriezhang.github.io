@@ -30,23 +30,7 @@ Beyond research, I enjoy mountain climbing, hiking, cycling, and playing badmint
 If you’re interested in my research or share any of these hobbies, feel free to reach out to me: **gloriezhang777(at)gmail(dot)com**.
 
 
-# 📝 Publications 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv</div>
-      <img src='images/mindalogue.png' alt="Mindalogue" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text'>
-    <strong style="color: #24459D;">Mindalogue: LLM-Powered Nonlinear Interaction for Effective Learning and Task Exploration</strong><br>
-    <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang*</span></strong>, Ziyao Zhang*, Fengliang Zhu, Jiajie Zhou, Anyi Rao†<br>
-    <a href="https://arxiv.org/abs/2410.10570">[Paper]</a>
-  </div>
-</div>
- 
-  
+# 📝 Publications   
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -78,6 +62,21 @@ If you’re interested in my research or share any of these hobbies, feel free t
     In <em>Proceedings of the Twelfth International Symposium of Chinese CHI</em> (<strong>CHCHI'24</strong>).<br>
     <a href="../assets/HapticMetric _ChineseCHI24(1).pdf" target="_blank">[Paper]</a>
     <a href="../assets/HapticMetric_ChineseCHI24.pdf" target="_blank">[Slides]</a>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv</div>
+      <img src='images/mindalogue.png' alt="Mindalogue" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <strong style="color: #24459D;">Mindalogue: LLM-Powered Nonlinear Interaction for Effective Learning and Task Exploration</strong><br>
+    <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang*</span></strong>, Ziyao Zhang*, Fengliang Zhu, Jiajie Zhou, Anyi Rao†<br>
+    <a href="https://arxiv.org/abs/2410.10570">[Paper]</a>
   </div>
 </div>
 
