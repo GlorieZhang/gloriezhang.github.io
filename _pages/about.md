@@ -19,7 +19,7 @@ redirect_from:
 
 # 🤹🏻‍♀️ About Me
 
-I am currently **a full-time research assistant in the [Future Laboratory at Tsinghua University](https://thfl.tsinghua.edu.cn/en/)**, with a interdisciplinary background. I hold **a Master’s degree in Design from [Beihang University](https://ev.buaa.edu.cn/)** and **a Bachelor’s degree in Physics from [Heilongjiang University](https://www.hlju.edu.cn/)**. I am positively **seeking Ph.D. opportunities** starting in 2025 🚀 and am passionate about advancing my research in human-computer interaction (HCI)!
+I am currently **a full-time research assistant in the [Future Laboratory at Tsinghua University](https://thfl.tsinghua.edu.cn/en/)**, with a interdisciplinary background. I hold **a Master’s degree in Design from [Beihang University](https://ev.buaa.edu.cn/)** and **a Bachelor’s degree in Physics from [Heilongjiang University](https://www.hlju.edu.cn/)**. I am positively **seeking Ph.D. opportunities** starting in 2025/2026 🚀 and am passionate about advancing my research in human-computer interaction (HCI)!
 
 I have conducted research at [Tsinghua University’s Future Laboratory](https://thfl.tsinghua.edu.cn/en/) and [Arts and Machine Creativity at Hong Kong University of Science and Technology](https://amc.hkust.edu.hk/), collaborated with [HUAWEI](https://www.huawei.com/en/) and [Xiaomi](https://www.mi.com/global/) on joint projects, and worked as a product manager intern at [DiDi](https://web.didiglobal.com/) and [Lenovo](https://www.lenovo.com/). These experiences have fueled my passion for integrating technology and design innovation while equipping me with interdisciplinary and practical skills. 
 
@@ -98,13 +98,13 @@ If you’re interested in my research or share any of these hobbies, feel free t
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/haptic design.png' alt="HapticMetric" width="100%">
+      <img src='images/frameworkfigure.png' alt="Framework" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
     <strong style="color: #24459D;">Multisensory Integrated Haptic Interaction Design for Smartphones</strong>(in Chinese)<br>
     <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Ziyao Zhang, Yang Jiao†<br>
-    <a href="../assets/Optimization Design(1).pdf" target="_blank">[Paper]</a>
+    <a href="../assets/Multisensory Integrated Haptic Interaction Design for Smartphones.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
 
@@ -118,7 +118,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   <div class='paper-box-text'>
     <strong style="color: #24459D;">ScentEcho: Exploring Adsorbent Materials for Accurate Odor Collection and  Playback</strong><br>
     Chihhung Lee, Yuchi Sun, <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Qi Lu†<br>
-    <a href="../assets/ScentEcho_for_HHME" target="_blank">[Paper]</a>
+    <a href="../assets/ScentEcho_for_HHME.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
 
