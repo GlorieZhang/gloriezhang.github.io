@@ -98,13 +98,27 @@ If you’re interested in my research or share any of these hobbies, feel free t
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/haptic design.png' alt="HapticMetric" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <strong style="color: #24459D;">Multisensory Integrated Haptic Interaction Design for Smartphones</strong>(in Chinese)<br>
+    <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Ziyao Zhang, Yang Jiao†<br>
+    <a href="../assets/Optimization Design(1).pdf" target="_blank">[Paper]</a>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/ScentEcho.jpg' alt="HapticMetric" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
     <strong style="color: #24459D;">ScentEcho: Exploring Adsorbent Materials for Accurate Odor Collection and  Playback</strong><br>
     Chihhung Lee, Yuchi Sun, <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Qi Lu†<br>
-    <a href="../assets/ScentEcho.pdf" target="_blank">[Paper]</a>
+    <a href="../assets/ScentEcho_for_HHME" target="_blank">[Paper]</a>
   </div>
 </div>
 
