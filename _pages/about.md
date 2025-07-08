@@ -123,6 +123,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
 </div>
 
 
+<¡--
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -149,6 +150,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
     <a href="../assets/Problematic Participation(1).pdf" target="_blank">[Paper]</a>
   </div>
 </div>
+-->
 
 
 # 🧐 Research Experience
