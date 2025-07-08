@@ -123,7 +123,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
 </div>
 
 
-<¡--
+<!--
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
