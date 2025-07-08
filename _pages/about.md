@@ -76,6 +76,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   <div class='paper-box-text'>
     <strong style="color: #24459D;">Mindalogue: LLM-Powered Nonlinear Interaction for Effective Learning and Task Exploration</strong><br>
     <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang*</span></strong>, Ziyao Zhang*, Fengliang Zhu, Jiajie Zhou, Anyi Rao†<br>
+    In arXiv preprint arXiv:2410.10570.<br>
     <a href="https://arxiv.org/abs/2410.10570">[Paper]</a>
   </div>
 </div>
