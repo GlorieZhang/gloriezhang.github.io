@@ -93,6 +93,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   <div class='paper-box-text'>
     <strong style="color: #24459D;">Multisensory Integrated Haptic Interaction Design for Smartphones</strong>(in Chinese)<br>
     <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Ziyao Zhang, Yang Jiao†<br>
+    In <em>1st China Human-Machine Computing Conference</em> (<strong>HMCC'25</strong>).<br>
     <a href="../assets/Multisensory Integrated Haptic Interaction Design for Smartphones.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
@@ -108,6 +109,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   <div class='paper-box-text'>
     <strong style="color: #24459D;">ScentEcho: Exploring Adsorbent Materials for Accurate Odor Collection and  Playback</strong><br>
     Chihhung Lee, Yuchi Sun, <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Qi Lu†<br>
+    In <em>1st China Human-Machine Computing Conference</em> (<strong>HMCC'25</strong>).<br>
     <a href="../assets/ScentEcho_for_HHME.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
