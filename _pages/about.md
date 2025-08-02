@@ -82,23 +82,11 @@ If you’re interested in my research or share any of these hobbies, feel free t
 </div>
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/haptic design.png' alt="HapticMetric" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text'>
-    <strong style="color: #24459D;">Optimization Design of Smartphone Haptic Feedback Based on Vibration and Semantic Features</strong>(in Chinese)<br>
-    <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Yixuan Li, Yang Jiao†<br>
-    <a href="../assets/Optimization Design(1).pdf" target="_blank">[Paper]</a>
-  </div>
-</div>
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">HMCC 2025</div>
       <img src='images/frameworkfigure.png' alt="Framework" width="100%">
     </div>
   </div>
@@ -113,6 +101,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">HMCC 2025</div>
       <img src='images/ScentEcho.jpg' alt="HapticMetric" width="100%">
     </div>
   </div>
@@ -120,6 +109,20 @@ If you’re interested in my research or share any of these hobbies, feel free t
     <strong style="color: #24459D;">ScentEcho: Exploring Adsorbent Materials for Accurate Odor Collection and  Playback</strong><br>
     Chihhung Lee, Yuchi Sun, <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Qi Lu†<br>
     <a href="../assets/ScentEcho_for_HHME.pdf" target="_blank">[Paper]</a>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/haptic design.png' alt="HapticMetric" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <strong style="color: #24459D;">Optimization Design of Smartphone Haptic Feedback Based on Vibration and Semantic Features</strong>(in Chinese)<br>
+    <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Yixuan Li, Yang Jiao†<br>
+    <a href="../assets/Optimization Design(1).pdf" target="_blank">[Paper]</a>
   </div>
 </div>
 
