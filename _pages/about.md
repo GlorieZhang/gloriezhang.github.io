@@ -78,7 +78,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
     <strong style="color: #24459D;">HapticMetric: A Smartphone Haptic Experience Computing System</strong><br>
     Yixuan Li*, <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang*</span></strong>, Liwen He, Yang Jiao†<br>
     In <em>Proceedings of the Twelfth International Symposium of Chinese CHI</em> (<strong>CHCHI'24</strong>).<br>
-    <a href="../assets/HapticMetric _ChineseCHI24(1).pdf" target="_blank">[Paper]</a>
+    <a href="https://dl.acm.org/doi/10.1145/3758871.3758958" target="_blank">[Paper]</a>
     <a href="../assets/HapticMetric_ChineseCHI24.pdf" target="_blank">[Slides]</a>
   </div>
 </div>
