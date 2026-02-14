@@ -30,7 +30,21 @@ Beyond research, I enjoy mountain climbing, hiking, cycling, and playing badmint
 If you’re interested in my research or share any of these hobbies, feel free to reach out to me: **gloriezhang777(at)gmail(dot)com**.
 
 
-# 📝 Publications   
+# 📝 Publications 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Journal of Computer-Aided Design & Computer Graphics</div>
+      <img src='images/haptic design.png' alt="HapticMetric" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <strong style="color: #24459D;">Optimization Design of Smartphone Haptic Feedback Based on Vibration and Semantic Features</strong>(in Chinese)<br>
+    <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Yixuan Li, Yang Jiao†<br>
+    <a href="../assets/Optimization Design(1).pdf" target="_blank">[Paper]</a>
+  </div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -117,20 +131,6 @@ If you’re interested in my research or share any of these hobbies, feel free t
 </div>
 
 
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/haptic design.png' alt="HapticMetric" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text'>
-    <strong style="color: #24459D;">Optimization Design of Smartphone Haptic Feedback Based on Vibration and Semantic Features</strong>(in Chinese)<br>
-    <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Yixuan Li, Yang Jiao†<br>
-    <a href="../assets/Optimization Design(1).pdf" target="_blank">[Paper]</a>
-  </div>
-</div>
 
 
 <!--
