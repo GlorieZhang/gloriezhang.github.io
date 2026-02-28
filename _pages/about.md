@@ -30,20 +30,8 @@ Beyond research, I enjoy mountain climbing, hiking, cycling, and playing badmint
 If you’re interested in my research or share any of these hobbies, feel free to reach out to me: **gloriezhang777(at)gmail(dot)com**.
 
 
-# 📝 Publications 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CHI EA 2026</div>
-      <img src='images/Robot Soft Interface.png' alt="HapticMetric" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text'>
-    <strong style="color: #24459D;">When Robots Feel Gentle: Co-Designing Tactile Interfaces for Social Robots in Older Adult Care<br>
-    <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Chenxi Xiao, Suhang Wei, Chih-Hung Lee, Yun Suen Pai, Yang Jiao†<br>
-    <a href="../assets/when robots feel gentle.pdf" target="_blank">[Paper]</a>
-  </div>
-</div>
+# 📝 Publications
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
