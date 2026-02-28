@@ -40,9 +40,9 @@ If you’re interested in my research or share any of these hobbies, feel free t
     </div>
   </div>
   <div class='paper-box-text'>
-    <strong style="color: #24459D;">When Robots Feel Gentle: Co-Designing Tactile Interfaces for Social Robots in Older Adult Care<</strong><br>
+    <strong style="color: #24459D;">When Robots Feel Gentle: Co-Designing Tactile Interfaces for Social Robots in Older Adult Care</strong><br>
     <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Chenxi Xiao, Suhang Wei, Chih-Hung Lee, Yun Suen Pai, Yang Jiao†<br>
-    In <em>In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing System</em> (<strong>CHI EA '26</strong>).<br>
+    In <em>Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing System</em> (<strong>CHI EA '26</strong>).<br>
     <a href="../assets/robot.pdf" target="_blank">[Paper]</a>
   </div>
 </div>
