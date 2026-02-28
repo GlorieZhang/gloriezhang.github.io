@@ -57,7 +57,7 @@ If you’re interested in my research or share any of these hobbies, feel free t
   <div class='paper-box-text'>
     <strong style="color: #24459D;">Optimization Design of Smartphone Haptic Feedback Based on Vibration and Semantic Features</strong>(in Chinese)<br>
     <strong><span style="text-decoration: underline; color: #24459D;">Rui Zhang</span></strong>, Yixuan Li, Yang Jiao†<br>
-    In <em>Journal of Computer-Aided Design & Computer Graphics</em>
+    In <em>Journal of Computer-Aided Design and Computer Graphics</em><br>
     <a href="../assets/Optimization Design(1).pdf" target="_blank">[Paper]</a>
   </div>
 </div>
